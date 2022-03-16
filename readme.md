@@ -2,7 +2,7 @@
 
 This is a starter template for creating a beautiful, customizable blog in Jigsaw with minimal effort. You’ll only have to change a few settings and you’re ready to go.
 
-[View a preview of the blog demo.](https://goofy-pike-63c553.netlify.app/){:target="_blank"}
+[View a preview of the blog demo.](https://goofy-pike-63c553.netlify.app/)
 
 ## Installation
 
